@@ -1,3 +1,5 @@
+**Deprecated**
+
 A JavaScript AB testing framework, ported from
 [http://www.github.com/guardian/frontend](guardian/frontend).
 
